@@ -1,8 +1,8 @@
 /*********************************************
-**	633 Assignment1							**
-**	Password Hashing					    **
-**	Submitted by:			                **
-**		Dexter Falcon		                **
+**	633 Assignment1			   **
+**	Password Hashing                   **
+**	Submitted by:			   **
+**		Falcon		           **
 ********************************************/
 
 #include 	<stdio.h>
