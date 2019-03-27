@@ -187,6 +187,7 @@ void WriteToFile(char usernames[MXUSERS][NAMELENGTH], char pwords[MXUSERS][PASSL
 
 }
 
+//from class Notes
 void E(char *in, char *out)
 {
 	// make the input characters uppercase.
@@ -287,6 +288,7 @@ void enterExistingUserOLM(const char * username, int usernameIndex)
 	}
 }
 
+//modelled from class Notes
 void xR(char* in, char* out, int r)
 {
 	// rehashing the hashed password
